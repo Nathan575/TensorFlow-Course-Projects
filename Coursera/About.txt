@@ -1,1 +1,1 @@
-Here are a few of the beginning notebooks I used in the TensorFlow Specialization Course by Laurence Moroney and Andrew Ng.
+Here are a few of the beginning notebooks/modules I used in the TensorFlow Specialization Course by Laurence Moroney and Andrew Ng.
