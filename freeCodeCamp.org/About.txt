@@ -1,1 +1,1 @@
-Here are the notebooks/modules I used to learn about TensorFlow using a course from freeCodeCamp.org.
+Here are the notebooks and modules I used to learn about TensorFlow using a course from freeCodeCamp.org.
